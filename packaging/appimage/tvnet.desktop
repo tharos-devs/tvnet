@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TVnet
+Comment=Films du soir à la télévision
+Exec=tvnet
+Icon=tvnet
+Terminal=false
+Type=Application
+Categories=Utility;AudioVideo;TV;
+StartupNotify=false

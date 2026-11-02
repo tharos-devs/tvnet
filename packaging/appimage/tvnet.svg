@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>tvnet.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M104 0 L408 0 C465.438 0 512 46.562 512 104 L512 408 C512 465.438 465.438 512 408 512 L104 512 C46.562 512 0 465.438 0 408 L0 104 C0 46.562 46.562 0 104 0 Z" fill="#101b2d"/>
+    <g>
+      <path d="M43 165 L149 165 M96 165 L96 339" fill="none" stroke="#55c4f5" stroke-width="19" stroke-linecap="square"/>
+      <polyline points="167,165 215,339 263,165" fill="none" stroke="#55c4f5" stroke-width="19" stroke-linecap="square"/>
+      <path d="M298 268 L298 199 M298 229 C298 210 309 198 326 198 C343 198 353 210 353 229 L353 268" fill="none" stroke="#f4f7fc" stroke-width="17" stroke-linecap="square" display="none"/>
+      <path d="M489 198 L489 268 M489 220 C489 207 480 198 468 198 C456 198 447 207 447 220 C447 233 456 242 468 242 L489 242" fill="none" stroke="#f4f7fc" stroke-width="17" stroke-linecap="square" display="none"/>
+    </g>
+    <text transform="matrix(1.708 0 0 1.656 282.617 274.811)" x="0" y="0" xml:space="preserve" font-family="&apos;Apple SD Gothic Neo&apos;, sans-serif" font-size="76" font-weight="bold" fill="#e6e6e6" letter-spacing="3.8"><tspan x="0" y="0">net</tspan></text>
+  </g>
+</svg>
